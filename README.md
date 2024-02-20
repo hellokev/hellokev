@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 # 💫 About Me:
-🏫 I'm a Senior CS student @ Cal State Fullerton.<br>👨‍💻 I'm currently working on a fullstack website for jokes.<br>🔎 I'm searching for tech-related roles such as Software Engineer.<br>🌱 I'm currently learning more back-end development.<br>⚡ Fun Fact - Ice skating is one of my favorite things to do but I am bad at it.
+🏫 I have my Bachelor of Science in Computer Science @ Cal State Fullerton.<br>👨‍💻 I'm currently working on Fullstack Projects.<br>🔎 I'm searching for tech-related roles such as Software Engineer.<br>🌱 I'm currently learning more back-end development.<br>⚡ Fun Fact - Ice skating is one of my favorite things to do but I am bad at it.
 
 
 # 💻 Tech Stack:
